@@ -19,14 +19,14 @@ dependencies = [
 ]
 
 [[project.authors]]
-name = "Wim Glenn"
-email = "hey@wimglenn.com"
+name = "Matteo Villosio"
+email = "mail@matteovillosio.com"
 
 [project.license]
 file = "LICENSE"
 
 [project.urls]
-homepage = "https://github.com/wimglenn/johnnydep"
+homepage = "https://github.com/Tsadoq/johnnydeppy"
 
 [project.scripts]
 johnnydep = "johnnydep.cli:main"
